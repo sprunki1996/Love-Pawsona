@@ -1,8 +1,9 @@
 # Love Pawsona
+[Play Love Pawsona](https://lovepawsona.online/)
 
 [![Love Pawsona](https://lovepawsona.online/front1.gif)](https://lovepawsona.online)
 
-[Play Love Pawsona](https://lovepawsona.online/)
+
 
 ## Overview
 Love Pawsona is a charming personality quiz game that combines elements of dating simulators with MBTI-inspired personality assessment. Set against the backdrop of Valentine's Day, players interact with a mysterious app called "CupidConnect" that matches them with their perfect pet companion based on their personality traits and choices.
